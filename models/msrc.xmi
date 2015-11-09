@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="ASCII"?>
+<javasimple:JavaApplication xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:javasimple="http://javasimple/1.0">
+  <packages name="java.lang">
+    <classes name="AbstractMethodError"/>
+    <classes name="ArithmeticException"/>
+    <classes name="ArrayIndexOutOfBoundsException"/>
+    <classes name="ArrayStoreException"/>
+    <classes name="AssertionError"/>
+    <classes name="AssertionStatusDirectives"/>
+    <classes name="BootstrapMethodError"/>
+    <classes name="Boolean"/>
+    <classes name="AbstractStringBuilder"/>
+    <classes name="Byte"/>
+    <classes name="CharacterData"/>
+    <classes name="ClassCastException"/>
+    <classes name="ClassCircularityError"/>
+    <classes name="ClassFormatError"/>
+    <classes name="ClassLoader"/>
+    <classes name="SystemClassLoaderAction"/>
+    <classes name="ClassNotFoundException"/>
+    <classes name="ClassValue"/>
+    <classes name="CloneNotSupportedException"/>
+    <classes name="Character"/>
+    <classes name="Double"/>
+    <classes name="ConditionalSpecialCasing"/>
+    <classes name="EnumConstantNotPresentException"/>
+    <classes name="Error"/>
+    <classes name="Enum"/>
+    <classes name="Exception"/>
+    <classes name="ExceptionInInitializerError"/>
+    <classes name="IllegalAccessError"/>
+    <classes name="IllegalAccessException"/>
+    <classes name="IllegalArgumentException"/>
+    <classes name="IllegalMonitorStateException"/>
+    <classes name="IllegalStateException"/>
+    <classes name="IllegalThreadStateException"/>
+    <classes name="IncompatibleClassChangeError"/>
+    <classes name="IndexOutOfBoundsException"/>
+    <classes name="InheritableThreadLocal"/>
+    <classes name="InstantiationError"/>
+    <classes name="InstantiationException"/>
+    <classes name="Float"/>
+    <classes name="InternalError"/>
+    <classes name="InterruptedException"/>
+    <classes name="Integer"/>
+    <classes name="LinkageError"/>
+    <classes name="Long"/>
+    <classes name="NegativeArraySizeException"/>
+    <classes name="NoClassDefFoundError"/>
+    <classes name="NoSuchFieldError"/>
+    <classes name="NoSuchFieldException"/>
+    <classes name="NoSuchMethodError"/>
+    <classes name="NoSuchMethodException"/>
+    <classes name="NullPointerException"/>
+    <classes name="Number"/>
+    <classes name="NumberFormatException"/>
+    <classes name="Math"/>
+    <classes name="OutOfMemoryError"/>
+    <classes name="Object"/>
+    <classes name="Process"/>
+    <classes name="Package"/>
+    <classes name="ProcessBuilder"/>
+    <classes name="ReflectiveOperationException"/>
+    <classes name="RuntimeException"/>
+    <classes name="Runtime"/>
+    <classes name="RuntimePermission"/>
+    <classes name="SecurityException"/>
+    <classes name="Short"/>
+    <classes name="StackOverflowError"/>
+    <classes name="StackTraceElement"/>
+    <classes name="Shutdown"/>
+    <classes name="StrictMath"/>
+    <classes name="StringBuffer"/>
+    <classes name="StringBuilder"/>
+    <classes name="String"/>
+    <classes name="StringIndexOutOfBoundsException"/>
+    <classes name="StringCoding"/>
+    <classes name="System"/>
+    <classes name="ThreadDeath"/>
+    <classes name="ThreadGroup"/>
+    <classes name="Thread"/>
+    <classes name="ThreadLocal"/>
+    <classes name="TypeNotPresentException"/>
+    <classes name="UnknownError"/>
+    <classes name="UnsatisfiedLinkError"/>
+    <classes name="UnsupportedClassVersionError"/>
+    <classes name="UnsupportedOperationException"/>
+    <classes name="VerifyError"/>
+    <classes name="VirtualMachineError"/>
+    <classes name="Void"/>
+    <classes name="Throwable"/>
+    <annotationsTypes name="Deprecated"/>
+    <annotationsTypes name="Override"/>
+    <annotationsTypes name="SafeVarargs"/>
+    <annotationsTypes name="SuppressWarnings"/>
+    <interfaces name="Appendable"/>
+    <interfaces name="AutoCloseable"/>
+    <interfaces name="CharSequence"/>
+    <interfaces name="Cloneable"/>
+    <interfaces name="Comparable"/>
+    <interfaces name="Iterable"/>
+    <interfaces name="Readable"/>
+    <interfaces name="Runnable"/>
+  </packages>
+  <types name="byte"/>
+  <types name="short" type="short"/>
+  <types name="int" type="int"/>
+  <types name="long" type="long"/>
+  <types name="float" type="float"/>
+  <types name="double" type="double"/>
+  <types name="boolean" type="boolean"/>
+  <types name="char" type="char"/>
+</javasimple:JavaApplication>

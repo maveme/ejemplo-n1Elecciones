@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="src-spec"/>
+	<classpathentry kind="src" path="src-spec-gen"/>
+	<classpathentry kind="src" path="src-test"/>
+	<classpathentry kind="src" path="src-test-spec"/>
+	<classpathentry kind="src" path="src-test-spec-gen"/>
+	<classpathentry kind="lib" path="test/lib/junit.jar"/>
+	<classpathentry kind="lib" path="test/lib/hamcrest-core.jar"/>
+	<classpathentry kind="lib" path="dev/lib/co.edu.uniandes.cupi2.generador.anotaciones_1.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

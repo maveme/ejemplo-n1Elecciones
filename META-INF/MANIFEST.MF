@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: co.edu.project
+Bundle-Vendor: Universidad de Los Andes
+Bundle-Version: 1.0.0.qualifier
+Bundle-SymbolicName: co.edu.uniandes.project;singleton:=true
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6

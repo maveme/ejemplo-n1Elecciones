@@ -1,0 +1,18 @@
+autor ''
+
+Req 'R1' - 'XXXX' {
+	resumen {
+		'Resumen'
+	}
+	entradas {
+		'<Entrada 1>';
+		'<Entrada 2>';
+	}
+	resultados{
+		'<Salida 1>';
+		'<Salida 2>';
+	} 
+	excepciones {
+		- '<Nombre Excepción>' : '<Mensaje Excepción>';
+	}
+}

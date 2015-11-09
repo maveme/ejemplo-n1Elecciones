@@ -1,0 +1,21 @@
+import "elementos.ej"
+
+Ejercicio "nx_xxxxxxx"{
+	autor ''
+	fecha ''
+	nivel N
+	dificultad Media
+	Parte "X" {
+		"Completar la clase X"
+		tareas{ 
+			Tarea: 1 [10] Crear Clase X {
+			"Se debe crear la clase X"
+			}
+		}
+	}
+
+	tareas_globales{
+		- [0] "Generar Javadoc" 
+	}
+		
+}
